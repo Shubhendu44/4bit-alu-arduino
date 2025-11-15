@@ -72,7 +72,7 @@ https://www.tinkercad.com/things/dmMxXuepCIo-arduino-4-bit-alu-circuit?sharecode
 
 ## 📂 Repository Contents
 
-- `4bitALU.ino` — Arduino sketch (ALU logic)  
+- `4bitALUcode.ino` — Arduino sketch (ALU logic)  
 - `circuit.png` (optional) — wiring screenshot / circuit diagram  
 - `README.md` — this document
 
