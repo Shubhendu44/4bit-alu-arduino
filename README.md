@@ -17,3 +17,10 @@ The main Arduino code is in `4bitALUcode.ino`.
 ## Input Format (Serial Monitor)
 Enter three integers separated by spaces:
 
+## 🔧 Tinkercad Circuit
+
+You can view and interact with the full circuit for this 4-bit ALU project here:
+
+[Open in Tinkercad](https://www.tinkercad.com/things/dmMxXuepCIo-arduino-4-bit-alu-circuit?sharecode=NlTjiYN0Z6kOR9uQhU74en0XLIGkikynQTOjKM1URLk)
+
+
